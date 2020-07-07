@@ -167,6 +167,8 @@ sudo ln -s /usr/powerpc64-linux-gnu/ /etc/qemu-binfmt/ppc64
 sudo ln -s /usr/sparc64-linux-gnu/ /etc/qemu-binfmt/sparc64
 ```
 
+Here it's possible to get more informaiton about `qemu-binfmt` setup to do it in other way: [transparently-running-binaries-from-any-architecture-in-linux-with-qemu-and-binfmt_misc](https://ownyourbits.com/2018/06/13/transparently-running-binaries-from-any-architecture-in-linux-with-qemu-and-binfmt_misc/)
+
 
 ### More
 
